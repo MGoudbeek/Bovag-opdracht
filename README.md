@@ -12,7 +12,7 @@ Zorg er voor dat je **Node.js** versie **8** of hoger geïnstalleerd hebt.
 
 ## 🏁 Doel van de opdracht
 
-Bouw een webpagina die de voertuigen toont zoals ze ter beschikking worden gesteld door de *Vehicle API* (verderop meer hier over). Artistieke vrijheid is van toepassing. Gebruik dus je creativiteit met de manier waarop de voertuigen gespresenteerd worden.
+Bouw een webpagina die de voertuigen toont zoals ze ter beschikking worden gesteld door de *Vehicle API* (verderop meer hier over). Artistieke vrijheid is van toepassing. Gebruik dus je creativiteit met de manier waarop de voertuigen gepresenteerd worden.
 
 💡 Tip: toon/verberg bij interactie (bijvoorbeeld een click event) uitgebreidere voertuigdetails.
 
