@@ -21,6 +21,19 @@ Bouw een webpagina die de voertuigen toont zoals ze ter beschikking worden geste
 * Mobile first approach: meer dan 60% van de bezoeken komt via mobiel
 * Performance: essentieel voor een goede gebruikerservaring
 
+## ✅ Acceptatiecriteria
+
+* Webpagina werkt cross-browser/-device/-OS (incl. IE11)
+* Webpagina moet bereikbaar/op te starten zijn via een HTTP server
+* JavaScript is geschreven in handcoded (vanilla) ES6+ 
+* Style declaraties zijn genaamd volgens BEM methodology 
+
+## 👌 Definition of Done
+
+* De opgeleverde webpagina toont de voertuigen zoals ze ter beschikking zijn gesteld middels de Vehicle API.
+* De gebruiker kan interactie hebben met de voertuigen om zodanig meer details te zien.
+* Code beschikbaar in een publieke git repository (bv. [Azure DevOps](https://dev.azure.com)). Mail de URL vervolgens naar de recruiter.
+
 ## 🚙 Vehicle API
 
 De voertuigen op viaBOVAG.nl worden aangeleverd middels de *Vehicle API*. Voor de opdracht gaan we gebruik maken van een vereenvoudigde, gemockte variant. Deze bevindt zich in de map `/api`. We starten de mock server als volgt:
