@@ -23,7 +23,7 @@ Bouw een webpagina die de voertuigen toont zoals ze ter beschikking worden geste
 
 ## ✅ Acceptatiecriteria
 
-* Webpagina werkt cross-browser/-device/-OS (incl. IE11)
+* Webpagina werkt cross-browser/-device/-OS
 * Webpagina moet bereikbaar/op te starten zijn via een HTTP server
 * JavaScript is geschreven in handcoded (vanilla) ES6+ 
 * Style declaraties zijn genaamd volgens BEM methodology 
