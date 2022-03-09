@@ -1,0 +1,45 @@
+.car-detail {
+  display: grid;
+  grid-template-areas:
+    "name"
+    "image"
+    "info"
+    "accesories";
+
+  &__name {
+    grid-area: name;
+  }
+
+  &__info {
+    grid-area: info;
+
+    span {
+      font-weight: bold;
+    }
+  }
+
+  &__image {
+    grid-area: image;
+    width: 100%;
+  }
+
+  &__accesories {
+    font-size: 1.2rem;
+    margin: 0;
+
+    li {
+      margin-bottom: 10px;
+    }
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .car-detail {
+    grid-template-areas:
+      "name name name name name name"
+      "image image info accesories accesories accesories";
+    &__image {
+      width: 500px;
+    }
+  }
+}
