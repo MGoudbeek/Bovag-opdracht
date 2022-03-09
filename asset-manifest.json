@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Bovag-opdracht/static/css/main.e43dcfa4.css",
-    "main.js": "/Bovag-opdracht/static/js/main.6be57cc1.js",
+    "main.js": "/Bovag-opdracht/static/js/main.fcd13f8d.js",
     "index.html": "/Bovag-opdracht/index.html",
     "main.e43dcfa4.css.map": "/Bovag-opdracht/static/css/main.e43dcfa4.css.map",
-    "main.6be57cc1.js.map": "/Bovag-opdracht/static/js/main.6be57cc1.js.map"
+    "main.fcd13f8d.js.map": "/Bovag-opdracht/static/js/main.fcd13f8d.js.map"
   },
   "entrypoints": [
     "static/css/main.e43dcfa4.css",
-    "static/js/main.6be57cc1.js"
+    "static/js/main.fcd13f8d.js"
   ]
 }
