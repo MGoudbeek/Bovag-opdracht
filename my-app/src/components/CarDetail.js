@@ -17,7 +17,7 @@ function CarDetail() {
               </h1>
               <img
                 className="car-detail__image"
-                src={car.images[0]}
+                src={car.images[1]}
                 alt={car.brand}
               />
               <div className="car-detail__info">
