@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Bovag-opdracht/static/css/main.e43dcfa4.css",
+    "main.js": "/Bovag-opdracht/static/js/main.d89553a7.js",
+    "index.html": "/Bovag-opdracht/index.html",
+    "main.e43dcfa4.css.map": "/Bovag-opdracht/static/css/main.e43dcfa4.css.map",
+    "main.d89553a7.js.map": "/Bovag-opdracht/static/js/main.d89553a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e43dcfa4.css",
+    "static/js/main.d89553a7.js"
+  ]
+}
